@@ -1,0 +1,597 @@
+/* screen - basiccomponentsliderstepslider */
+
+.basiccomponentsliderstepslider {
+  background-color: var(--white);
+  height: 2363px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentsliderstepslider .group-6-lvOKSx {
+  background-color: transparent;
+  height: 491px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentsliderstepslider .group-10-lvOKSx {
+  background-color: transparent;
+  height: 580px;
+  left: 419px;
+  position: absolute;
+  top: 983px;
+  width: 1401px;
+}
+
+.basiccomponentsliderstepslider .group-7-lvOKSx {
+  background-color: transparent;
+  height: 500px;
+  left: 419px;
+  position: absolute;
+  top: 1663px;
+  width: 1401px;
+}
+
+.basiccomponentsliderstepslider .group-9-lvOKSx {
+  background-color: transparent;
+  height: 190px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentsliderstepslider .web-sub_-title-lvOKSx {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentsliderstepslider .web-title-area-lvOKSx {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentsliderstepslider .web-tab-basic-component_-slider-lvOKSx {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentsliderstepslider .x3rd-depth-OijXxc {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentsliderstepslider .tab-3VxxfM {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentsliderstepslider .linear-slider-PsXiMm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 79px;
+}
+
+.basiccomponentsliderstepslider .step-slider-PsXiMm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 67px;
+}
+
+.basiccomponentsliderstepslider .lnb-basic-component-lvOKSx {
+  background-color: transparent;
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .rectangle-zb5Ffu {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .background-zb5Ffu {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .rectangle-sMB4sD {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .line-zb5Ffu {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentsliderstepslider .home-net-ui-guideline-zb5Ffu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basiccomponentsliderstepslider .group-zb5Ffu {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .empty-V4kmwc {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .empty-T0eF77 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .line-copy-V4kmwc {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsliderstepslider .group-sMB4sD {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1166px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .empty-aqzhC1 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .empty-xSJxx3 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .line-copy-aqzhC1 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_close-zb5Ffu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1391px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_close-sMB4sD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1345px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_close-WNxVXq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1299px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_close-MWdp6X {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1253px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-title-reference-zb5Ffu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1478px;
+  width: 313px;
+}
+
+.basiccomponentsliderstepslider .web-index-title-reference-sMB4sD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1207px;
+  width: 313px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_close-CNtLxr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1120px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_close-qerrVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1074px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_close-nL54K7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1028px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-zb5Ffu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 982px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-sMB4sD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 936px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-WNxVXq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 890px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-MWdp6X {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 844px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-CNtLxr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 798px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-qerrVP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 752px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-nL54K7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 706px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-aYB1DN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 614px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-CAhLp0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 660px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-DhKueo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 568px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-q7B3g3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 522px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-eBqNlb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 476px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-tExszC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 430px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-c84thR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 384px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents2dpeth-EdzVm7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 338px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_open_selected-zb5Ffu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 292px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_close-aYB1DN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 246px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-contents1dpeth_close-CAhLp0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 200px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .web-index-title-common-zb5Ffu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepslider .webgnb-lvOKSx {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderstepslider .rectangle-aVHwQ0 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderstepslider .background-aVHwQ0 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderstepslider .index-aVHwQ0 {
+  background-color: transparent;
+  height: 28px;
+  left: 421px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.basiccomponentsliderstepslider .web-index-select-wJdjaW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.basiccomponentsliderstepslider .web-index-unselect-wJdjaW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentsliderstepslider .web-index-unelect_main-aVHwQ0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentsliderstepslider .logo-bju6xq {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

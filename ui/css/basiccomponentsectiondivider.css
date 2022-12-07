@@ -1,0 +1,530 @@
+/* screen - basiccomponentsectiondivider */
+
+.basiccomponentsectiondivider {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentsectiondivider .group-6-Tyvy9V {
+  background-color: transparent;
+  height: 224px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentsectiondivider .group-4-Tyvy9V {
+  background-color: transparent;
+  height: 409px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentsectiondivider .web-sub_-title-Tyvy9V {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentsectiondivider .web-title-area-Tyvy9V {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentsectiondivider .lnb-basic-component-Tyvy9V {
+  background-color: transparent;
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .rectangle-HyLR4v {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .background-HyLR4v {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .rectangle-EggiyD {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .line-HyLR4v {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentsectiondivider .home-net-ui-guideline-HyLR4v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basiccomponentsectiondivider .group-HyLR4v {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .empty-p0x5W4 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .empty-9Pzn5x {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .line-copy-p0x5W4 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsectiondivider .group-EggiyD {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1166px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .empty-WieBLF {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .empty-3cQnFg {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .line-copy-WieBLF {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-HyLR4v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1391px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-EggiyD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1345px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-Ht5ann {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1299px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-s58xME {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1253px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-title-reference-HyLR4v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1478px;
+  width: 313px;
+}
+
+.basiccomponentsectiondivider .web-index-title-reference-EggiyD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1207px;
+  width: 313px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-yViJfx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1120px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-E9m4eB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1074px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-s1pb1D {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1028px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-HyLR4v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 982px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-EggiyD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 936px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-Ht5ann {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 890px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-s58xME {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 844px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-yViJfx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 798px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-E9m4eB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 752px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-s1pb1D {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 706px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-yJR7Vb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 614px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-QizruZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 660px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-idsZqt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 568px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-PdxUxI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 522px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-qEtxhC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 476px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-DV5Wce {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 430px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-Hx8rc7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 384px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents2dpeth-ZhYjGg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 338px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_open_selected-HyLR4v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 292px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-yJR7Vb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 246px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-contents1dpeth_close-QizruZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 200px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .web-index-title-common-HyLR4v {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 320px;
+}
+
+.basiccomponentsectiondivider .webgnb-Tyvy9V {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsectiondivider .rectangle-EJG2iW {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsectiondivider .background-EJG2iW {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsectiondivider .index-EJG2iW {
+  background-color: transparent;
+  height: 28px;
+  left: 421px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.basiccomponentsectiondivider .web-index-select-ogCHVT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.basiccomponentsectiondivider .web-index-unselect-ogCHVT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentsectiondivider .web-index-unelect_main-EJG2iW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentsectiondivider .logo-zIoKyw {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

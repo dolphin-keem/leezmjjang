@@ -1,0 +1,481 @@
+/* screen - basicinteractionerrorcaseservercloudnotresponse */
+
+.basicinteractionerrorcaseservercloudnotresponse {
+  background-color: var(--white);
+  height: 1308px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .group-YdTVp1 {
+  background-color: transparent;
+  height: 786px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-title-area-YdTVp1 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-tab-basic-interaction_-error-case-YdTVp1 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .x3rd-depth-d8ZJKV {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .tab-zXt8x3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 104px;
+  position: relative;
+  top: 1px;
+  width: auto;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .popup-DujZY3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 40px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .network-disconnectio-DujZY3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .device-disconnection-DujZY3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 134px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .server-cloud-not-res-DujZY3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 165px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .lnb-basic-interaction-YdTVp1 {
+  background-color: transparent;
+  height: 1172px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .rectangle-85Izy2 {
+  background-color: var(--concrete);
+  height: 1172px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .background-85Izy2 {
+  background-color: var(--concrete);
+  height: 1172px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .stacked-group-85Izy2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-title-common-DL3vho {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_close-DL3vho {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_close-K5xpLR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_close-wxsmCJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_open_selected-DL3vho {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents2dpeth-DL3vho {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents2dpeth-K5xpLR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents2dpeth-wxsmCJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents2dpeth-Epf9To {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents2dpeth-9C12nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents2dpeth-Tl6FQF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents2dpeth-copy-DL3vho {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_close-Epf9To {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_close-9C12nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .group-DL3vho {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .empty-b7vx2c {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .line-copy-b7vx2c {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .empty-2eTANw {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-title-reference-DL3vho {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_close-Tl6FQF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_close-j4lg5b {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_close-rniqNG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-contents1dpeth_close-PjTj4G {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .group-K5xpLR {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .empty-MxhEMT {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .line-copy-MxhEMT {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .empty-l96POm {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-title-reference-K5xpLR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .line-85Izy2 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .home-net-ui-guideline-85Izy2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .webgnb-YdTVp1 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .rectangle-N1F588 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .background-N1F588 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .index-N1F588 {
+  background-color: transparent;
+  height: 28px;
+  left: 421px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-select-QCRZxQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-unselect-QCRZxQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .web-index-unelect_main-N1F588 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basicinteractionerrorcaseservercloudnotresponse .logo-duCxrA {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

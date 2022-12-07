@@ -1,0 +1,463 @@
+/* screen - basicinteractionplugininformationinteractionflow */
+
+.basicinteractionplugininformationinteractionflow {
+  background-color: var(--white);
+  height: 2248px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basicinteractionplugininformationinteractionflow .group-5-73k8Nj {
+  background-color: transparent;
+  height: 1764px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-title-area-73k8Nj {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-tab-basic-intera-73k8Nj {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basicinteractionplugininformationinteractionflow .x3rd-depth-lOTJOO {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basicinteractionplugininformationinteractionflow .tab-B3SMHl {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 104px;
+  position: relative;
+  top: 1px;
+  width: auto;
+}
+
+.basicinteractionplugininformationinteractionflow .key-screen-PTtfc7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 66px;
+}
+
+.basicinteractionplugininformationinteractionflow .interaction-flow-PTtfc7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 99px;
+}
+
+.basicinteractionplugininformationinteractionflow .lnb-basic-interaction-73k8Nj {
+  background-color: transparent;
+  height: 1172px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .rectangle-VQOODm {
+  background-color: var(--concrete);
+  height: 1172px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .background-VQOODm {
+  background-color: var(--concrete);
+  height: 1172px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .stacked-group-VQOODm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-title-common-rbvAdW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_close-rbvAdW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_close-hGk3fE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_close-eOoQeF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_open_selected-rbvAdW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents2dpeth-rbvAdW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents2dpeth-hGk3fE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents2dpeth-eOoQeF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents2dpeth-dOrXJT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents2dpeth-14oAO2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents2dpeth-xeHYxB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents2dpeth-copy-rbvAdW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_close-dOrXJT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_close-14oAO2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .group-rbvAdW {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .empty-DfGUxh {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .line-copy-DfGUxh {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basicinteractionplugininformationinteractionflow .empty-vpBk7E {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-title-reference-rbvAdW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_close-xeHYxB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_close-lQ3Nt7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_close-2bxIrz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-contents1dpeth_close-YPMrEo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .group-hGk3fE {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .empty-raqY78 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .line-copy-raqY78 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basicinteractionplugininformationinteractionflow .empty-MCNrUd {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-title-reference-hGk3fE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.basicinteractionplugininformationinteractionflow .line-VQOODm {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basicinteractionplugininformationinteractionflow .home-net-ui-guideline-VQOODm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basicinteractionplugininformationinteractionflow .webgnb-73k8Nj {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basicinteractionplugininformationinteractionflow .rectangle-cGoBFa {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basicinteractionplugininformationinteractionflow .background-cGoBFa {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basicinteractionplugininformationinteractionflow .index-cGoBFa {
+  background-color: transparent;
+  height: 28px;
+  left: 421px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-select-Jgax5i {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-unselect-Jgax5i {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basicinteractionplugininformationinteractionflow .web-index-unelect_main-cGoBFa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basicinteractionplugininformationinteractionflow .logo-4RIXuS {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

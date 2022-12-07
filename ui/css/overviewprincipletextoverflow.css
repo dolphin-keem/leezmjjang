@@ -1,0 +1,417 @@
+/* screen - overviewprincipletextoverflow */
+
+.overviewprincipletextoverflow {
+  background-color: var(--white);
+  height: 1102px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewprincipletextoverflow .group-2-9ylHxB {
+  background-color: transparent;
+  height: 618px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.overviewprincipletextoverflow .web-title-area-9ylHxB {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewprincipletextoverflow .x3rd-depth-9ylHxB {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: absolute;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewprincipletextoverflow .tab-aLG3xV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.overviewprincipletextoverflow .responsive-ui-v4rxaT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 87px;
+}
+
+.overviewprincipletextoverflow .text-overflow-v4rxaT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 84px;
+}
+
+.overviewprincipletextoverflow .word-break-v4rxaT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 73px;
+}
+
+.overviewprincipletextoverflow .case-sensitive-v4rxaT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 90px;
+}
+
+.overviewprincipletextoverflow .date-and-time-inform-v4rxaT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 163px;
+}
+
+.overviewprincipletextoverflow .release-version-v4rxaT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 97px;
+}
+
+.overviewprincipletextoverflow .lnb-overview-9ylHxB {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .rectangle-1SHTwy {
+  background-color: var(--concrete);
+  height: 942px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .background-1SHTwy {
+  background-color: var(--concrete);
+  height: 942px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .stacked-group-1SHTwy {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-title-common-tMhh9W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_close-tMhh9W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_open_selected-tMhh9W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents2dpeth-tMhh9W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents2dpeth-e5XcK8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_close-e5XcK8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_close-GsEUNw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_close-4Axzk6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_close-xl4gur {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .group-2-tMhh9W {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-title-reference-tMhh9W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_close-nnis0N {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_close-YZXvr7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_close-pUnaU8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-contents1dpeth_close-d9QS50 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .group-tMhh9W {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .empty-son9y8 {
+  background-color: var(--concrete);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .line-copy-son9y8 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.overviewprincipletextoverflow .empty-ptebxp {
+  background-color: var(--concrete);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewprincipletextoverflow .web-index-title-reference-e5XcK8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.overviewprincipletextoverflow .line-1SHTwy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.overviewprincipletextoverflow .home-net-ui-guideline-1SHTwy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.overviewprincipletextoverflow .webgnb-9ylHxB {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewprincipletextoverflow .rectangle-PzjCz3 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewprincipletextoverflow .background-PzjCz3 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewprincipletextoverflow .index-PzjCz3 {
+  background-color: transparent;
+  height: 22px;
+  left: 429px;
+  position: absolute;
+  top: 21px;
+  width: 114px;
+}
+
+.overviewprincipletextoverflow .web-index-select-xCzCcq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.overviewprincipletextoverflow .web-index-unselect-xCzCcq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.overviewprincipletextoverflow .web-index-unelect_main-PzjCz3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.overviewprincipletextoverflow .logo-VpsFct {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

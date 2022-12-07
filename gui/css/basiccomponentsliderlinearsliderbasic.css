@@ -1,0 +1,599 @@
+/* screen - basiccomponentsliderlinearsliderbasic */
+
+.basiccomponentsliderlinearsliderbasic {
+  background-color: var(--white);
+  height: 1865px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-8-xVUMgA {
+  background-color: transparent;
+  height: 848px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-copy-2-xVUMgA {
+  background-color: transparent;
+  height: 93px;
+  left: 1140px;
+  position: absolute;
+  top: 1332px;
+  width: 680px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-2-copy-3-IvvihH {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentsliderlinearsliderbasic .table-guide-text1line-etI1cF {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentsliderlinearsliderbasic .table-guide-text1line-R2rZJO {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentsliderlinearsliderbasic .table-guide-text2line_m-etI1cF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-3-IvvihH {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-3-copy-xVUMgA {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 1525px;
+  width: 680px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-9-xVUMgA {
+  background-color: transparent;
+  height: 290px;
+  left: 381px;
+  position: absolute;
+  top: 1332px;
+  width: 709px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-title-area-xVUMgA {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-tab-service-feature_-basic-layout-xVUMgA {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentsliderlinearsliderbasic .x3rd-depth-iNlhxT {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentsliderlinearsliderbasic .tab-iNlhxT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentsliderlinearsliderbasic .linear-slider-_-basi-uAwKIQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 123px;
+}
+
+.basiccomponentsliderlinearsliderbasic .service-feature-type-uAwKIQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 113px;
+}
+
+.basiccomponentsliderlinearsliderbasic .lnb-favorite-card-xVUMgA {
+  background-color: transparent;
+  height: 1494px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .rectangle-t44XHE {
+  background-color: var(--concrete);
+  height: 1494px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .background-t44XHE {
+  background-color: var(--concrete);
+  height: 1039px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .stacked-group-t44XHE {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-title-common-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents1dpeth_close-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents1dpeth_close-5EZEhs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents1dpeth_close-N3E48T {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-2-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-14-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-10-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-6-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-11-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-7-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-4-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-8-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-9-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-5-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-5EZEhs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-3-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-12-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-15-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents2dpeth-copy-13-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents1dpeth_close-x0kLgT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents1dpeth_open_selected-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-copy-aTwYnj {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .empty-WBN5tA {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .line-copy-WBN5tA {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsliderlinearsliderbasic .empty-KE1ZQd {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-title-common-copy-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents1dpeth_close-IGVOxb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents1dpeth_close-hJC0xb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-aTwYnj {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .empty-GlCdxa {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .line-copy-GlCdxa {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsliderlinearsliderbasic .empty-amFzwd {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-title-common-5EZEhs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .line-t44XHE {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentsliderlinearsliderbasic .home-net-gui-guidelin-t44XHE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentsliderlinearsliderbasic .webgnb-xVUMgA {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderlinearsliderbasic .rectangle-HDfYQs {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderlinearsliderbasic .background-HDfYQs {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderlinearsliderbasic .index-HDfYQs {
+  background-color: transparent;
+  height: 22px;
+  left: 428px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-select-61cwsB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-unselect-61cwsB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-unelect_main-HDfYQs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentsliderlinearsliderbasic .logo-zxnHaP {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

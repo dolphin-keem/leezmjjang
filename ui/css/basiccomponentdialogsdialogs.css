@@ -1,0 +1,588 @@
+/* screen - basiccomponentdialogsdialogs */
+
+.basiccomponentdialogsdialogs {
+  background-color: var(--white);
+  height: 1455px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentdialogsdialogs .group-8-AeGMWi {
+  background-color: transparent;
+  height: 653px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentdialogsdialogs .group-9-AeGMWi {
+  background-color: transparent;
+  height: 913px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentdialogsdialogs .web-sub_-title-AeGMWi {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentdialogsdialogs .web-title-area-AeGMWi {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentdialogsdialogs .web-tab-basic-component_-dialogs-AeGMWi {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentdialogsdialogs .x3rd-depth-gPiJgW {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentdialogsdialogs .tab-y7dRO7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentdialogsdialogs .dialogs-tYkZZ1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 47px;
+}
+
+.basiccomponentdialogsdialogs .detail-input-popup-copy-tYkZZ1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 115px;
+}
+
+.basiccomponentdialogsdialogs .tablet-dialogs-tYkZZ1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 86px;
+}
+
+.basiccomponentdialogsdialogs .lnb-basic-component-AeGMWi {
+  background-color: transparent;
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .rectangle-1PJM8C {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .background-1PJM8C {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .rectangle-BmFp7S {
+  background-color: var(--concrete);
+  height: 1524px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .line-1PJM8C {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentdialogsdialogs .home-net-ui-guideline-1PJM8C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.basiccomponentdialogsdialogs .group-1PJM8C {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1437px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .empty-38MRE4 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .empty-t9WMFD {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .line-copy-38MRE4 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentdialogsdialogs .group-BmFp7S {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 1166px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .empty-xBoJu1 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .empty-40RiCR {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .line-copy-xBoJu1 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_close-1PJM8C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1391px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_close-BmFp7S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1345px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_close-HknHdD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1299px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_close-LDoWhK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1253px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-title-reference-1PJM8C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1478px;
+  width: 313px;
+}
+
+.basiccomponentdialogsdialogs .web-index-title-reference-BmFp7S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1207px;
+  width: 313px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_close-ZxaH48 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1120px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_close-506ZUv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1074px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_close-xkJmPB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 1028px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-1PJM8C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 982px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-BmFp7S {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 936px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-HknHdD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 890px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-LDoWhK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 844px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-ZxaH48 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 798px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-506ZUv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 752px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-xkJmPB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 706px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-5qZ2AG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 614px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-40OTAO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 660px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-ko6GjS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 568px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-T4WksS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 522px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-hXjAg6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 476px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-EfZCjv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 430px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-EXRZkT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 384px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents2dpeth-EQKOoS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 338px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_open_selected-1PJM8C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 292px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_close-5qZ2AG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 246px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-contents1dpeth_close-40OTAO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 200px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .web-index-title-common-1PJM8C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 320px;
+}
+
+.basiccomponentdialogsdialogs .webgnb-AeGMWi {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentdialogsdialogs .rectangle-x2xKoS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentdialogsdialogs .background-x2xKoS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentdialogsdialogs .index-x2xKoS {
+  background-color: transparent;
+  height: 28px;
+  left: 421px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.basiccomponentdialogsdialogs .web-index-select-jRixDu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.basiccomponentdialogsdialogs .web-index-unselect-jRixDu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentdialogsdialogs .web-index-unelect_main-x2xKoS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentdialogsdialogs .logo-4PSeJl {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

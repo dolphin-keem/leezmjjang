@@ -1,0 +1,1276 @@
+/* screen - servicepluginevchargingcard */
+
+.servicepluginevchargingcard {
+  background-color: var(--white);
+  height: 4278px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginevchargingcard .group-7-KjEzG1 {
+  background-color: transparent;
+  height: 866px;
+  left: 384px;
+  position: absolute;
+  top: 2196px;
+  width: 706px;
+}
+
+.servicepluginevchargingcard .group-10-KjEzG1 {
+  background-color: transparent;
+  height: 544px;
+  left: 380px;
+  position: absolute;
+  top: 342px;
+  width: 710px;
+}
+
+.servicepluginevchargingcard .group-11-KjEzG1 {
+  background-color: transparent;
+  height: 866px;
+  left: 384px;
+  position: absolute;
+  top: 1180px;
+  width: 706px;
+}
+
+.servicepluginevchargingcard .group-4-KjEzG1 {
+  background-color: transparent;
+  height: 866px;
+  left: 400px;
+  position: absolute;
+  top: 3212px;
+  width: 690px;
+}
+
+.servicepluginevchargingcard .group-14-KjEzG1 {
+  background-color: transparent;
+  height: 496px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .group-21-NEeCTx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-YeWOvk {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-YeWOvk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-uN7S6b {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .group-20-NEeCTx {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-ebm4zz {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-ebm4zz {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-ebm4zz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .group-16-NEeCTx {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-3-VcCuvP {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-VcCuvP {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-VcCuvP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .group-12-NEeCTx {
+  background-color: transparent;
+  height: 125px;
+  left: 0px;
+  position: absolute;
+  top: 371px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-5-kpbfvd {
+  background-color: transparent;
+  height: 86px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-2-kpbfvd {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-4-kpbfvd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 125px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .group-13-NEeCTx {
+  background-color: transparent;
+  height: 124px;
+  left: 0px;
+  position: absolute;
+  top: 237px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-3VTLr7 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-2-3VTLr7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-6-3VTLr7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 67px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-8-3VTLr7 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-11-3VTLr7 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 67px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .descriptiontabletop-NEeCTx {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .group-8-KjEzG1 {
+  background-color: transparent;
+  height: 484px;
+  left: 1140px;
+  position: absolute;
+  top: 1180px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .group-21-copy-BfHXb1 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-7-mjswcx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-19-mjswcx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-20-mjswcx {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .group-20-copy-BfHXb1 {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-17-6GDsnd {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-6-6GDsnd {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-18-6GDsnd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .group-16-copy-BfHXb1 {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-15-hxdLXI {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-5-hxdLXI {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-16-hxdLXI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .group-2-BfHXb1 {
+  background-color: transparent;
+  height: 151px;
+  left: 0px;
+  position: absolute;
+  top: 237px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-3-Cep91O {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-10-Cep91O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-9-Cep91O {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-7-Cep91O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 47px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-12-Cep91O {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 47px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-13-Cep91O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 114px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-14-Cep91O {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 114px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .group-6-BfHXb1 {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 398px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-4-zwq5Um {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-21-zwq5Um {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-22-zwq5Um {
+  background-color: transparent;
+  height: 86px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .descriptiontabletop-copy-BfHXb1 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .group-8-copy-KjEzG1 {
+  background-color: transparent;
+  height: 484px;
+  left: 1140px;
+  position: absolute;
+  top: 2196px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .group-21-copy-yGVXRQ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-8-16ZusD {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-23-16ZusD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-24-16ZusD {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .group-20-copy-yGVXRQ {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-25-jBKpyV {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-9-jBKpyV {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-26-jBKpyV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .group-16-copy-yGVXRQ {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-27-9HZAqH {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-10-9HZAqH {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-28-9HZAqH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .group-2-yGVXRQ {
+  background-color: transparent;
+  height: 151px;
+  left: 0px;
+  position: absolute;
+  top: 237px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-11-ZuAah9 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-29-ZuAah9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-30-ZuAah9 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-31-ZuAah9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 47px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-32-ZuAah9 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 47px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-33-ZuAah9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 114px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-34-ZuAah9 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 114px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .group-6-yGVXRQ {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 398px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-12-sxpSHw {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-35-sxpSHw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-36-sxpSHw {
+  background-color: transparent;
+  height: 86px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .descriptiontabletop-copy-2-yGVXRQ {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .group-8-copy-2-KjEzG1 {
+  background-color: transparent;
+  height: 93px;
+  left: 1140px;
+  position: absolute;
+  top: 3212px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .group-20-copy-yjcRFc {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-39-qxw1JD {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginevchargingcard .table-guide-text1line-copy-14-qxw1JD {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginevchargingcard .table-guide-text2line_m-copy-40-qxw1JD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginevchargingcard .descriptiontabletop-copy-3-yjcRFc {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .group-3-KjEzG1 {
+  background-color: transparent;
+  height: 142px;
+  left: 1140px;
+  position: absolute;
+  top: 938px;
+  width: 680px;
+}
+
+.servicepluginevchargingcard .web-sub_-title-KjEzG1 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginevchargingcard .web-title-area-KjEzG1 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginevchargingcard .web-tab-service-plug-in_cctv-KjEzG1 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginevchargingcard .x3rd-depth-xnfdof {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginevchargingcard .tab-haz2L6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginevchargingcard .card-W4rmeu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginevchargingcard .lnb-service-plug-in-KjEzG1 {
+  background-color: transparent;
+  height: 1264px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .rectangle-e38add {
+  background-color: var(--concrete);
+  height: 1264px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .lnb-e38add {
+  background-color: transparent;
+  height: 1264px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .stacked-group-j39gwU {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-title-common-copy-DXYxE8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents1dpeth_close-DXYxE8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents1dpeth_close-TkiiQF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents1dpeth_close-NQKNdX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents1dpeth_close-1Hu40q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents1dpeth_close-nnHFyX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .group-copy-DXYxE8 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .empty-copy-RZaY8w {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .line-copy-2-RZaY8w {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginevchargingcard .empty-copy-2-RZaY8w {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-title-common-DXYxE8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents1dpeth_close-XA5GM1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents1dpeth_open_selected-DXYxE8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-copy-2-DXYxE8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-DXYxE8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-TkiiQF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-NQKNdX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-1Hu40q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-nnHFyX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-XA5GM1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-hp0Jn6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-dbmedm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-CZGn6S {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-copy-DXYxE8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-contents2dpeth-5ymCw8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .group-DXYxE8 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .empty-R1QdLQ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .line-copy-R1QdLQ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginevchargingcard .empty-izp4Eq {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .web-index-title-common-TkiiQF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginevchargingcard .line-j39gwU {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginevchargingcard .home-net-gui-guidelin-j39gwU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginevchargingcard .webgnb-KjEzG1 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginevchargingcard .rectangle-PU8RPN {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginevchargingcard .background-PU8RPN {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginevchargingcard .index-PU8RPN {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.servicepluginevchargingcard .web-index-select-5DvEnL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginevchargingcard .web-index-unselect-5DvEnL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 96px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginevchargingcard .web-index-unelect_main-PU8RPN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.servicepluginevchargingcard .logo-7MDvRM {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

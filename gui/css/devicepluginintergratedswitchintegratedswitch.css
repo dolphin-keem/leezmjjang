@@ -1,0 +1,705 @@
+/* screen - devicepluginintergratedswitchintegratedswitch */
+
+.devicepluginintergratedswitchintegratedswitch {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1513px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-bMMeQM {
+  background-color: transparent;
+  height: 971px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-copy-bMMeQM {
+  background-color: transparent;
+  height: 725px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-2-9k9Vg1 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .descriptiontabletop-9k9Vg1 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-2-copy-9k9Vg1 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-HABnMb {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-xQCcS9 {
+  background-color: transparent;
+  height: 99px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text2line_m-HABnMb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text2line_m-xQCcS9 {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 37px;
+  width: 340px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-2-copy-2-9k9Vg1 {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 212px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-2-copy-4-9k9Vg1 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 322px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-ZYH2Xb {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-YVrIqy {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text2line_m-ZYH2Xb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-2-copy-6-9k9Vg1 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 369px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-KFwn5z {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-D2sqX2 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text2line_m-KFwn5z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-2-copy-8-9k9Vg1 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 416px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-7xuTbO {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-OhjC3y {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text2line_m-7xuTbO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-2-copy-10-9k9Vg1 {
+  background-color: transparent;
+  height: 195px;
+  left: 0px;
+  position: absolute;
+  top: 463px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-2-copy-9-9k9Vg1 {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 668px;
+  width: 680px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-Q781dc {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text1line-G7qu76 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .table-guide-text2line_m-Q781dc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-sub_-title-bMMeQM {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-title-area-bMMeQM {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-tab-device-plug-bMMeQM {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .x3rd-depth-D6uWXH {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .tab-mAED32 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginintergratedswitchintegratedswitch .integrated-switch-Ifhvyf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 109px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .lnb-device-plug-in-bMMeQM {
+  background-color: transparent;
+  height: 1218px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .rectangle-I71sc7 {
+  background-color: var(--concrete);
+  height: 1218px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .stacked-group-I71sc7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-title-common-cDmko0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents1dpeth_close-cDmko0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents1dpeth_close-1IRkK5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents1dpeth_close-b1xa0u {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents1dpeth_close-5UQOnU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents1dpeth_close-gmduDg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-copy-cDmko0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .empty-rLS257 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .line-copy-rLS257 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .empty-fcivlp {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-title-common-copy-cDmko0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents1dpeth_open_selected-cDmko0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-cDmko0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-1IRkK5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-b1xa0u {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-5UQOnU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-gmduDg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-0im4m9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-HnKpRu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-G1oIx4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-b7hS7g {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-6Omj4Q {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents2dpeth-35XaPw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-contents1dpeth_close-0im4m9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .group-cDmko0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .empty-eHRjBE {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .line-copy-eHRjBE {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .empty-rO3tl4 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-title-common-1IRkK5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .line-I71sc7 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .home-net-gui-guidelin-I71sc7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .webgnb-bMMeQM {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .rectangle-JpkS6k {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .background-JpkS6k {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .index-JpkS6k {
+  background-color: transparent;
+  height: 28px;
+  left: 428px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-select-4x5zY3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-unselect-4x5zY3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .web-index-unelect_main-JpkS6k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.devicepluginintergratedswitchintegratedswitch .logo-d0RVjG {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

@@ -1,0 +1,671 @@
+/* screen - basiccomponentlistexpandablelistbasic */
+
+.basiccomponentlistexpandablelistbasic {
+  background-color: var(--white);
+  height: 2712px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-13-Lnf2bN {
+  background-color: transparent;
+  height: 686px;
+  left: 381px;
+  position: absolute;
+  top: 1135px;
+  width: 709px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-14-Lnf2bN {
+  background-color: transparent;
+  height: 541px;
+  left: 420px;
+  position: absolute;
+  top: 1971px;
+  width: 1400px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-sub_-title-Lnf2bN {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 1077px;
+  width: 1600px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-12-Lnf2bN {
+  background-color: transparent;
+  height: 594px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-3-copy-2-Lnf2bN {
+  background-color: transparent;
+  height: 336px;
+  left: 1140px;
+  position: absolute;
+  top: 1464px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-Lnf2bN {
+  background-color: transparent;
+  height: 229px;
+  left: 1140px;
+  position: absolute;
+  top: 1135px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-2-copy-2-DcUSpc {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-KTd4sJ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text1line-NOxspJ {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentlistexpandablelistbasic .table-guide-text2line_m-KTd4sJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-2-copy-3-DcUSpc {
+  background-color: transparent;
+  height: 126px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-3-DcUSpc {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-title-area-Lnf2bN {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-tab-service-feature_-basic-layout-Lnf2bN {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponentlistexpandablelistbasic .x3rd-depth-VQHq3U {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponentlistexpandablelistbasic .tab-VQHq3U {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentlistexpandablelistbasic .basic-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 56px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-2-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 52px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-3-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 137px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-5-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 124px;
+}
+
+.basiccomponentlistexpandablelistbasic .service-feature-type-copy-4-Lp7sso {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 76px;
+}
+
+.basiccomponentlistexpandablelistbasic .lnb-favorite-card-Lnf2bN {
+  background-color: transparent;
+  height: 1642px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-x1aRpV {
+  background-color: var(--concrete);
+  height: 1642px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .background-x1aRpV {
+  background-color: var(--concrete);
+  height: 1187px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .stacked-group-x1aRpV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-title-common-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents1dpeth_close-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents1dpeth_close-ukSj93 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents1dpeth_close-gicQyA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-2-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-14-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-10-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-6-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-11-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-7-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-4-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-8-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-9-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-5-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-ukSj93 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-3-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-12-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-15-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents2dpeth-copy-13-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents1dpeth_close-5LLRxF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents1dpeth_open_selected-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-copy-926GA1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-EZsJ25 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .line-copy-EZsJ25 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-0xscvp {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-title-common-copy-926GA1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents1dpeth_close-8OoClw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-contents1dpeth_close-FgNI13 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .group-926GA1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-LMkPOh {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .line-copy-LMkPOh {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentlistexpandablelistbasic .empty-NGHqmF {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-title-common-ukSj93 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentlistexpandablelistbasic .line-x1aRpV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentlistexpandablelistbasic .home-net-gui-guidelin-x1aRpV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentlistexpandablelistbasic .webgnb-Lnf2bN {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentlistexpandablelistbasic .rectangle-IoDwfA {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentlistexpandablelistbasic .background-IoDwfA {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentlistexpandablelistbasic .index-IoDwfA {
+  background-color: transparent;
+  height: 22px;
+  left: 428px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-select-aXFJpv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-unselect-aXFJpv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentlistexpandablelistbasic .web-index-unelect_main-IoDwfA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentlistexpandablelistbasic .logo-qxa1S9 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

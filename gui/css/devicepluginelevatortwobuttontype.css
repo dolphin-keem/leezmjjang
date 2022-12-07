@@ -1,0 +1,813 @@
+/* screen - devicepluginelevatortwobuttontype */
+
+.devicepluginelevatortwobuttontype {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2682px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginelevatortwobuttontype .group-5-jscx0C {
+  background-color: transparent;
+  height: 317px;
+  left: 420px;
+  position: absolute;
+  top: 2158px;
+  width: 404px;
+}
+
+.devicepluginelevatortwobuttontype .group-3-copy-jscx0C {
+  background-color: transparent;
+  height: 93px;
+  left: 1140px;
+  position: absolute;
+  top: 1973px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .group-7-jscx0C {
+  background-color: transparent;
+  height: 830px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.devicepluginelevatortwobuttontype .group-29-jscx0C {
+  background-color: transparent;
+  height: 240px;
+  left: 400px;
+  position: absolute;
+  top: 1391px;
+  width: 690px;
+}
+
+.devicepluginelevatortwobuttontype .group-26-jscx0C {
+  background-color: transparent;
+  height: 227px;
+  left: 420px;
+  position: absolute;
+  top: 1781px;
+  width: 336px;
+}
+
+.devicepluginelevatortwobuttontype .group-copy-jscx0C {
+  background-color: transparent;
+  height: 482px;
+  left: 1140px;
+  position: absolute;
+  top: 1391px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-Jkf7c1 {
+  background-color: transparent;
+  height: 128px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-bvqD4p {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-0qZuEp {
+  background-color: transparent;
+  height: 99px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2line_m-bvqD4p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2line_m-copy-bvqD4p {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 69px;
+  width: 340px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-copy-Jkf7c1 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 194px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-copy-2-Jkf7c1 {
+  background-color: transparent;
+  height: 179px;
+  left: 0px;
+  position: absolute;
+  top: 303px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontabletop-Jkf7c1 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .group-jscx0C {
+  background-color: transparent;
+  height: 504px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-9kQxLy {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontabletop-9kQxLy {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-copy-9kQxLy {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-abYP3U {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-vqqjSh {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2line_m-abYP3U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-copy-2-9kQxLy {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-9jeOTv {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-IIjMEk {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2line_m-9jeOTv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-copy-3-9kQxLy {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 197px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-Xbek29 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-atgjBt {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2line_m-Xbek29 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-copy-5-9kQxLy {
+  background-color: transparent;
+  height: 193px;
+  left: 0px;
+  position: absolute;
+  top: 244px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-4uGZBG {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-zND7df {
+  background-color: transparent;
+  height: 57px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2line_m-4uGZBG {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginelevatortwobuttontype .group-6-4uGZBG {
+  background-color: transparent;
+  height: 136px;
+  left: 60px;
+  position: absolute;
+  top: 57px;
+  width: 296px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-copy-4-9kQxLy {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 447px;
+  width: 680px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-rAC74g {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-eZRoHV {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2line_m-rAC74g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.devicepluginelevatortwobuttontype .web-sub_-title-jscx0C {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginelevatortwobuttontype .web-title-area-jscx0C {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginelevatortwobuttontype .web-tab-device-plug-jscx0C {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginelevatortwobuttontype .x3rd-depth-cl9xq7 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginelevatortwobuttontype .tab-NxEPPm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginelevatortwobuttontype .one-button-type-7oQS0u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 100px;
+}
+
+.devicepluginelevatortwobuttontype .two-button-type-7oQS0u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 101px;
+}
+
+.devicepluginelevatortwobuttontype .lnb-device-plug-in-jscx0C {
+  background-color: transparent;
+  height: 1218px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .rectangle-Rpb9Ei {
+  background-color: var(--concrete);
+  height: 1218px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .stacked-group-Rpb9Ei {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-title-common-218xL8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents1dpeth_close-218xL8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents1dpeth_close-my1xaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents1dpeth_close-2RJG0b {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents1dpeth_close-2uW8dQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents1dpeth_close-B7O3sF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .group-copy-218xL8 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .empty-TkzBpk {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .line-copy-TkzBpk {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginelevatortwobuttontype .empty-XDbPX3 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-title-common-copy-218xL8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents1dpeth_open_selected-218xL8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-218xL8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-my1xaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-2RJG0b {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-2uW8dQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-B7O3sF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-msCaee {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-8xIiIb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-OfDx0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-oI23DH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-tsJum8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents2dpeth-MKPoqp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-contents1dpeth_close-msCaee {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .group-218xL8 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .empty-5k6TEB {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .line-copy-5k6TEB {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginelevatortwobuttontype .empty-Ocq0IV {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-title-common-my1xaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .line-Rpb9Ei {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginelevatortwobuttontype .home-net-gui-guidelin-Rpb9Ei {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginelevatortwobuttontype .webgnb-jscx0C {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginelevatortwobuttontype .rectangle-vlfBM7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginelevatortwobuttontype .background-vlfBM7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginelevatortwobuttontype .index-vlfBM7 {
+  background-color: transparent;
+  height: 28px;
+  left: 428px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-select-mw1YKE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-unselect-mw1YKE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-unelect_main-vlfBM7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.devicepluginelevatortwobuttontype .logo-kbegjb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

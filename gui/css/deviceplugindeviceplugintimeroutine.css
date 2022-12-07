@@ -1,0 +1,676 @@
+/* screen - deviceplugindeviceplugintimeroutine */
+
+.deviceplugindeviceplugintimeroutine {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3502px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugindeviceplugintimeroutine .group-copy-3lmCeh {
+  background-color: transparent;
+  height: 135px;
+  left: 1140px;
+  position: absolute;
+  top: 2432px;
+  width: 680px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-5-3lmCeh {
+  background-color: transparent;
+  height: 870px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-7-3lmCeh {
+  background-color: transparent;
+  height: 870px;
+  left: 420px;
+  position: absolute;
+  top: 1362px;
+  width: 360px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-4-3lmCeh {
+  background-color: transparent;
+  height: 870px;
+  left: 400px;
+  position: absolute;
+  top: 2432px;
+  width: 690px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-3lmCeh {
+  background-color: transparent;
+  height: 254px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-2-OS8AtQ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text1line-8rcPme {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text1line-nOxVgk {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text2line_m-8rcPme {
+  background-color: transparent;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-2-copy-OS8AtQ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text1line-G6Hatw {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text1line-OfnM0W {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text2line_m-G6Hatw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.deviceplugindeviceplugintimeroutine .descriptiontabletop-OS8AtQ {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-2-copy-2-OS8AtQ {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 680px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text1line-dnDCkY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text1line-DWxGUP {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text2line_m-dnDCkY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-2-copy-3-OS8AtQ {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 217px;
+  width: 680px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text1line-LbuVsi {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text1line-yrljku {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.deviceplugindeviceplugintimeroutine .table-guide-text2line_m-LbuVsi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-sub_-title-3lmCeh {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-title-area-3lmCeh {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-tab-device-plug-3lmCeh {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugintimeroutine .x3rd-depth-qxhMxf {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugintimeroutine .tab-xB66is {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.deviceplugindeviceplugintimeroutine .keyscreen-5FDtO4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 64px;
+}
+
+.deviceplugindeviceplugintimeroutine .time-routine-5FDtO4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 94px;
+}
+
+.deviceplugindeviceplugintimeroutine .activity-history-5FDtO4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.deviceplugindeviceplugintimeroutine .lnb-device-plug-in-3lmCeh {
+  background-color: transparent;
+  height: 1218px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .rectangle-DBAPq2 {
+  background-color: var(--concrete);
+  height: 1218px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .stacked-group-DBAPq2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-title-common-p3RFUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents1dpeth_close-p3RFUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents1dpeth_close-rkBtcz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents1dpeth_close-fw7Pj8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents1dpeth_close-2xGdh3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents1dpeth_close-CEfv4h {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-copy-p3RFUn {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .empty-i6DBoW {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .line-copy-i6DBoW {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugindeviceplugintimeroutine .empty-wlZWFI {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-title-common-copy-p3RFUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents1dpeth_open_selected-p3RFUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-p3RFUn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-rkBtcz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-fw7Pj8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-2xGdh3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-CEfv4h {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-p0aqX3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-SglStj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-175VYu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-70lJH3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-Djlza1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents2dpeth-YHIkeF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-contents1dpeth_close-p0aqX3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .group-p3RFUn {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .empty-fOXjSX {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .line-copy-fOXjSX {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugindeviceplugintimeroutine .empty-AxGdx5 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-title-common-rkBtcz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugintimeroutine .line-DBAPq2 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugindeviceplugintimeroutine .home-net-gui-guidelin-DBAPq2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.deviceplugindeviceplugintimeroutine .webgnb-3lmCeh {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugindeviceplugintimeroutine .rectangle-KDDuez {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugindeviceplugintimeroutine .background-KDDuez {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugindeviceplugintimeroutine .index-KDDuez {
+  background-color: transparent;
+  height: 28px;
+  left: 428px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-select-e5nSxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-unselect-e5nSxN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.deviceplugindeviceplugintimeroutine .web-index-unelect_main-KDDuez {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.deviceplugindeviceplugintimeroutine .logo-qd8OLo {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

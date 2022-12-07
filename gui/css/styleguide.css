@@ -1,0 +1,18 @@
+:root { 
+  --concrete: #f2f2f2;
+  --shark: #252525;
+  --white: #ffffff;
+ 
+  --font-size-m: 14px;
+ 
+  --font-family-samsungonekorean-400: "SamsungOneKorean-400", Helvetica;
+}
+.tableguidetextdark {
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+:root {
+}

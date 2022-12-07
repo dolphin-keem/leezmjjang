@@ -1,0 +1,49 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@font-face {
+  font-family: "SamsungOne-500";
+  font-weight: 500;
+  src: url("fonts/SamsungOne-500_v1.1.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SamsungOne-400";
+  font-weight: 400;
+  src: url("fonts/SamsungOne-400_v1.1.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SamsungOne-600";
+  font-weight: 600;
+  src: url("fonts/SamsungOne-600_v1.1.ttf") format("truetype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/60c840a463a50bdccc1d66cc.60c840a68d84bafa7cafa070.f0jutUN.hcp.png");
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
